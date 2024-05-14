@@ -1,5 +1,4 @@
 git+https://github.com/haotian-liu/LLaVA.git
-
 gradio
 lmdeploy
 transformers
