@@ -7,4 +7,4 @@ tiktoken
 sentencepiece==0.2.0
 torch==2.0.1+cpu
 torchvision==0.15.2+cpu
-git+https://github.com/haotian-liu/LLaVA.git
+-e git+https://github.com/haotian-liu/LLaVA.git
